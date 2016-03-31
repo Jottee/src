@@ -21,7 +21,7 @@ public class WlanScanner {
 	public static String webSenderTarget = "netsys.ewi.utwente.nl";
 	
 	//Your group name on the website, don't forget to change this!
-	public static String name = "Change me!";
+	public static String name = "(´▽`)ﾉ";
 	
 	//Controls if the position is send to the server for viewing on the website.
 	public static boolean sendToWebsite = true;
